@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dnd-run/static/css/main.079e06cd.css",
+    "main.js": "/dnd-run/static/js/main.7c5bff2b.js",
+    "index.html": "/dnd-run/index.html",
+    "main.079e06cd.css.map": "/dnd-run/static/css/main.079e06cd.css.map",
+    "main.7c5bff2b.js.map": "/dnd-run/static/js/main.7c5bff2b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.079e06cd.css",
+    "static/js/main.7c5bff2b.js"
+  ]
+}
